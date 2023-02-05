@@ -1,0 +1,5 @@
+b = input()
+a = b.split()
+tach = map(int,a)
+tong = sum(tach)
+print(tong)
